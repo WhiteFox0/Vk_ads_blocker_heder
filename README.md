@@ -1,4 +1,5 @@
-Vk-ads-blocker-heder-
+Vk ads blocker in heder
 =====================
 
-Blocks heder ads in vk
+Userscript that blocks heder ads in vk
+Working for Tampermonkey.
